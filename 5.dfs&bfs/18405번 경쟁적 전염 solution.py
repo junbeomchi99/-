@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/18405
+#bfs 문제임으로 deque를 이용해서 풀어야 시간 제한 내에 풀수있음. 
 from collections import deque
 
 n, k = map(int, input().split())
