@@ -1,3 +1,4 @@
+#실패... bfs를 이용해야됨으로 deque 이용해보기 !
 n,k = map(int, input().split())
 
 graph = []
